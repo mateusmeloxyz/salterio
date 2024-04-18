@@ -23,26 +23,46 @@ class SalmosScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Saltério Genebrino'),
+        backgroundColor: Colors.teal,
+        foregroundColor: Colors.white,
       ),
       //passing in the ListView.builder
-      body: ListView.builder(
-        itemCount: salmos.length,
-        itemBuilder: (context, index) {
-          return ListTile(
-            title: Text("Salmo ${salmos[index].number}"),
-            enabled: salmos[index].enabled,
-            // When a user taps the ListTile, navigate to the DeailScreen.
-            // Notice that you're not only creating a DetailScreen, you're
-            // also passing the current salmo through to it.
-            onTap: salmos[index].enabled ? () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(
-                  builder: (context) => DetailScreen(salmo: salmos[index]),
+      body: OrientationBuilder(
+        builder: (context, orientation) {
+          return GridView.builder(
+          padding: const EdgeInsets.all(8.0),
+          gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 5),
+          itemCount: salmos.length,
+          itemBuilder: (context, index) {
+            return GestureDetector(
+              onTap: salmos[index].enabled ? () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => DetailScreen(salmo: salmos[index]),
+                  ),
+                );
+              } : null,
+              child: Container(
+                margin: const EdgeInsets.fromLTRB(4.0, 8.0, 4.0, 8.0),
+                padding: const EdgeInsets.all(16.0),
+                decoration: salmos[index].enabled ? BoxDecoration(
+                  color: Colors.teal,
+                  borderRadius: BorderRadius.circular(10),
+                ) : 
+                BoxDecoration(
+                  color: Colors.teal[100],
+                  borderRadius: BorderRadius.circular(10)
                 ),
-              );
-            } : null,
-          );
+                child: Center(
+                  child: Text("${salmos[index].number}", style: Theme.of(context,).textTheme.bodyLarge?.copyWith(
+                      color: Colors.white),
+                  ),
+                ),
+              ),
+            );
+          },
+        );
         },
       ),
     );
@@ -62,6 +82,8 @@ class DetailScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Salmo ${salmo.number}"),
+        backgroundColor: Colors.teal,
+        foregroundColor: Colors.white,
       ),
       body: SizedBox.expand(
         child: SingleChildScrollView(
