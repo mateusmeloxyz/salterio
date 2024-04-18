@@ -77,18 +77,24 @@ class DetailScreen extends StatelessWidget {
       appBar: AppBar(
         title: Text("Salmo ${salmo.number}"),
       ),
-      body: SingleChildScrollView(
-        child: Column(
-          children: [
-            Padding(
-              padding: const EdgeInsets.all(16),
-              child: Text(salmo.subtitle),
-            ),
-            Padding(
-              padding: const EdgeInsets.all(16),
-              child: Text(salmo.description),
-            ),
-          ],
+      body: SizedBox.expand(
+        child: SingleChildScrollView(
+          child: Column(
+            children: [
+              Padding(
+                padding: const EdgeInsets.all(16),
+                child: Text(salmo.title),
+              ),
+              Padding(
+                padding: const EdgeInsets.all(16),
+                child: Text(salmo.subtitle),
+              ),
+              Padding(
+                padding: const EdgeInsets.all(16),
+                child: Text(salmo.description),
+              ),
+            ],
+          ),
         ),
       ),
     );
