@@ -1,19 +1,5 @@
 import 'package:flutter/material.dart';
-
-class Salmo {
-  final String title;
-  final String description;
-
-  const Salmo(this.title, this.description);
-}
-
-final salmos = List.generate(
-  150,
-  (i) => Salmo(
-    'Salmo ${i + 1}',
-    'Letra do Salmo ${i + 1}',
-  ),
-);
+import "/salmos.dart";
 
 void main() {
   runApp(
@@ -61,12 +47,12 @@ class SalmosScreen extends StatelessWidget {
             title: Text(salmos[index].title),
             // When a user taps the ListTile, navigate to the DeailScreen.
             // Notice that you're not only creating a DetailScreen, you're
-            // also passing the current todo through to it.
+            // also passing the current salmo through to it.
             onTap: () {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => DetailScreen(todo: salmos[index]),
+                  builder: (context) => DetailScreen(salmo: salmos[index]),
                 ),
               );
             },
@@ -79,21 +65,31 @@ class SalmosScreen extends StatelessWidget {
 
 class DetailScreen extends StatelessWidget {
   // In the constructor, require a Salmo
-  const DetailScreen({super.key, required this.todo});
+  const DetailScreen({super.key, required this.salmo});
 
   // Declare a field that holds the Salmo.
-  final Salmo todo;
+  final Salmo salmo;
 
   @override
   Widget build(BuildContext context) {
     // Use the Salmo to create the UI.
     return Scaffold(
       appBar: AppBar(
-        title: Text(todo.title),
+        title: Text(salmo.title),
       ),
-      body: Padding(
-        padding: const EdgeInsets.all(16),
-        child: Text(todo.description),
+      body: SingleChildScrollView(
+        child: Column(
+          children: [
+            Padding(
+              padding: const EdgeInsets.all(16),
+              child: Text(salmo.subtitle),
+            ),
+            Padding(
+              padding: const EdgeInsets.all(16),
+              child: Text(salmo.description),
+            ),
+          ],
+        ),
       ),
     );
   }
