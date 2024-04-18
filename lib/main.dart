@@ -45,17 +45,18 @@ class SalmosScreen extends StatelessWidget {
         itemBuilder: (context, index) {
           return ListTile(
             title: Text("Salmo ${salmos[index].number}"),
+            enabled: salmos[index].enabled,
             // When a user taps the ListTile, navigate to the DeailScreen.
             // Notice that you're not only creating a DetailScreen, you're
             // also passing the current salmo through to it.
-            onTap: () {
+            onTap: salmos[index].enabled ? () {
               Navigator.push(
                 context,
                 MaterialPageRoute(
                   builder: (context) => DetailScreen(salmo: salmos[index]),
                 ),
               );
-            },
+            } : null,
           );
         },
       ),
