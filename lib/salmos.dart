@@ -14,25 +14,25 @@ List<Salmo> salmos = [
     "",
   """
 Quão bem-aventurado homem é,
-Em conselho ímpio, não põe o seu pé:
-Não se detém no andar de pecadores,
-Nem se associa os escarnecedores;
+Em conselho_ímpio, não põe o seu pé:
+Não se detém no_andar de pecadores,
+Nem se_associa_os escarnecedores;
 Mas seu prazer na lei de DEUS está,
-E dia e noite nela meditar.
+E dia_e noite nela meditar.
 
-Tal como arbusto à beira de água está,
+Tal como_arbusto_à beira de_água_está,
 Em tempo próprio, fruto ele dá:
 Sua folhagem nunca desvanece,
-Tudo que faz é bom, prospera e cresce;
+Tudo que faz é bom, prospera_e cresce;
 O malfeitor jamais assim será:
-É como a palha ao vento a espalhar.
+É como_a palha_ao vento_a espalhar.
 
-Por isso os ímpios não subsistirão,
+Por isso_os ímpios não subsistirão,
 E no juízo, todos cairão:
 Entre os justos, quando congregados,
 Serão os pecadores derrubados;
-Dos justos, DEUS conhece o caminhar,
-Porém o caminho ímpio morrerá.
+Dos justos, DEUS conhece_o caminhar,
+Porém o caminho_ímpio morrerá.
 """,
 true),
   const Salmo(2,
@@ -42,8 +42,8 @@ true),
 Por que se amotinam as nações?
 Por que os povos em vaidades pensam?
 Os reis da terra, em revoluções,
-Contra o SENHOR e contra o seu Ungido estão.
-Os governantes se unem em conselhos;
+Contra_o SENHOR e contra_o seu Ungido_estão.
+Os governantes se_unem em conselhos;
 Os seus grilhões, queremos nós romper!
 De seu domínio, nos libertaremos;
 Deles, queremos nós nos desfazer.
@@ -54,24 +54,24 @@ Dos tais, do alto, Ele zombará;
 Ri o Senhor, daqueles revoltados.
 Em sua ira, há de lhes falar,
 Em sua reprovação, os turbará!:
-“No monte Santo, Eu O entronizei;
+“No monte Santo, Eu O_entronizei;
 Sobre Sião, constituí meu Rei.”
 
 Decreto do SENHOR proclamarei;
-Desta maneira assim Ele me disse:
-"Tu és meu filho, hoje Eu te gerei;
-Pede-me pois, e em tuas mãos entrego.
+Desta maneira_assim Ele me disse:
+"Tu és meu filho, hoje_Eu te gerei;
+Pede-me pois, e_em tuas mãos entrego.
 Os fins da terra, dou em tua posse;
 E todas as nações Tu herdarás!
 Regerás povos com vara de ferro:
-Tal como um vaso os despedaçarás.”
+Tal como_um vaso_os despedaçarás.”
 
 Ó reis, portanto, sede sábios vós;
 Juízes da terra, deixai instruir-vos!
-Eis que ao SENHOR servi vós com temor,
+Eis que_ao SENHOR servi vós com temor,
 E então regozijai-vos pois, com mui tremor.
-Beijai o Filho, pra que não se irrite,
-E no caminho ainda pereçais!
+Beijai o Filho, pra que não se_irrite,
+E no caminho_ainda pereçais!
 Logo sua ira subirá ardente:
 Felizes vós que nEle confiais!
 """, true),
@@ -79,19 +79,19 @@ const Salmo(3,
 "3. MEUS ADVERSÁRIOS TÊM AUMENTADO",
 "Salmo de David, quando ele fugiu de Absalão, seu filho.",
 """Os adversários meus
-Têm aumentado, ó Deus!
-Muitos vêm me enfrentar.
-Eis que estão a dizer,
+Têm aumentado,_ó Deus!
+Muitos vêm me_enfrentar.
+Eis que_estão a dizer,
 Falando de meu ser:
 “Deus não o vai salvar”. [Selá]
 Porém, Tu és, SENHOR,
-Meu escudo e resplendor:
+Meu_escudo_e resplendor:
 Exaltas minha fronte!
 Com minha voz clamei;
 JAVÉ me respondeu:
 Lá, do seu Santo monte. [Selá]
 
-Eu durmo ao me deitar,
+Eu durmo_ao me deitar,
 Depois vou acordar:
 JAVÉ me dá sustento.
 Não temo nem dez mil,
@@ -99,46 +99,423 @@ Que surgem contra mim:
 Sitiado os enfrento.
 Ergue-te pois, SENHOR;
 Vem me salvar, meu Deus!
-Quebra o queixo e os dentes
-Do ímpio opositor!
+Quebra o queixo_e_os dentes
+Do ímpio_opositor!
 JAVÉ, traz salvação:
-Sobre o teu povo, bênção. [Selá]
+Sobre_o teu povo, bênção. [Selá]
 """, true),
 const Salmo(4,
-"",
-"",
+"4. OUVE AO MEU CLAMOR",
+"Para o diretor, com hino: salmo de David.",
 """
-""", false),
+Ó Deus, responde quando eu clamo,
+Tu, que és minha retidão.
+Na minha_angústia_e privação,
+Abriste-me caminho amplo;
+Com mercê, me_ouve_em oração.
+Filhos dos homens, até quando?
+A minha glória_inflamareis?
+Prosseguireis me envergonhando?
+A vạịdade amareis,
+Só a mentira buscareis.  [Selá]
+
+Sabei que o SENHOR distingue,
+E tem já separado;
+Quem piedoso e fiel é,
+Sua_oração tem escutado:
+Ao clamar, ouvirá JAVÉ.
+Irai-vos vós, mas sem pecado:
+No leito vinde repousar;
+Permanecei assim calados:
+Tendo na alma meditado,
+Firmes em DEUS a confiar.  [Selá]
+
+Apresentai ofertas justas,
+Sacrifícios de retidão.
+Contudo há os que indagam:
+Quem mostrará o bem a nós?
+JAVÉ, tua face_em nós reluz.
+Uma_alegria_ainda maior,
+Maior que_a dos que têm vinho_e pão,
+Em meu coração Tu vens pôr;
+E em paz me deito_e durmo então:
+Pois meu refúgio_é só_o SENHOR.
+""", true),
 const Salmo(5,
-"",
-"",
+"5. OUVE AS MINHAS PALAVRAS",
+"Para o diretor, pelo herdeiro: salmo de David.",
 """
-""", false),
+Ouve, SENHOR, minhas palavras;
+Meu Deus,  meu Rei, escuta-me:
+A minha voz elevo_a Ti!
+Aos meus queixumes e gemidos,
+Vem dar ouvidos.
+
+Desde_a manhã, estou clamando;
+Tu ouves minha voz, SENHOR:
+Sobe a Ti o meu clamor!
+Pela manhã, eu fico_orando,
+E vigiando.
+
+Pois não suportas o pecado;
+Contigo não habita_o mau:
+Altivos não subsistirão!
+Detestas toda_iniqüidade,
+E a maldade.
+
+Sucumbirão os mentirosos;
+Todos que fraudulentos são:
+Odiados por JAVÉ serão!
+O sangüinário, abominas,
+E exterminas.
+
+Eu porém entro_em tua casa;
+Perante Ti prostrar-me-ei:
+No templo Santo_eu louvarei!
+Na multidão da tua bondade,
+E fieldade.
+
+Dirige-me_em tua justiça,
+Por causa dos que_agridem-me:
+Ó meu SENHOR, eu clamo_a Ti!
+Aplana-me a tua via,
+Nela me guia.
+
+Pois fieldade_a eles falta;
+Seus corações perversos são:
+Proferem só adulação!
+A boca deles é, decerto,
+Sepulcro_aberto.
+
+Ó Deus, destrói o que_é culpado;
+Que caiam por seus planos maus:
+Muitas são suas transgressões!
+Pois, contra Ti, se revoltaram,
+E rebelaram.
+
+Mas regozijem-se aqueles
+Que_estão em Ti a confiar:
+Possam assim se alegrar!
+Pra sempre_estejam a clamar,
+Pois os proteges.
+
+Os que_ao teu nome têm amor,
+Exaltem-se em Ti, SENHOR:
+Ao homem justo_abençoarás!
+Como_um broquel, com teu favor,
+Assim o cercas.
+""", true),
 const Salmo(6,
-"",
-"",
+"6. SENHOR, NÃO ME CASTIGUES",
+"Para o diretor, em cânticos, sobre a oitava: salmo de David.",
 """
-""", false),
+JAVÉ, não proves, em teu furor,
+Nem irado castigues.
+Sê clemente, SENHOR:
+Sofro_em enfermidades;
+Vem, ó JAVÉ, curar-me:
+O meu corpo treme.
+
+Minh’alma_está turbada,
+Minh’alma abalada.
+Porém Tu, ó JAVÉ:
+Até quando, ó JAVÉ?
+Retorna, ó SENHOR;
+D’alma o libertador.
+
+Vem minha alma libertar;
+Por tua graça me salvar.
+Pois na morte não há,
+Lembrança de Ti não há:
+No_abismo do sepulcro,
+Quem te dará louvor?
+
+Já estou cansado do meu gemer,
+E_a cama_à noite fazer.
+No meu leito_a nadar,
+Molhado do meu chorar,
+Meus olhos amortecem:
+Com mágoa_envelhecem.
+
+Oh, apartai-vos, vós homens vis,
+Que_o mal com labor fazeis.
+Ao clamor de minha voz,
+E ao gemido meu,
+Com lágrimas em prantos,
+JAVÉ me atendeu.
+
+
+Minha_oração, receberá DEUS;
+JAVÉ ouviu meu clamor:
+Com vergonha_e terror,
+Desapontadamente,
+Saiam, subitamente,
+Os adversários meus.
+""", true),
 const Salmo(7,
-"",
-"",
+"7. EM TI CONFIO, SENHOR DEUS",
+"Shigaiom de Davi que cantou ao SENHOR, sobre as palavras de Cuxe, benjamita.",
 """
-""", false),
+Em Ti confio_ó Deus, meu SENHOR:
+Salva-me do meu perseguidor;
+Não deixe minh’alma_ele rasgar,
+Como_um leão, despedaçar.
+Não tenho libertador,
+Nem quem me possa resgatar;
+Julga-me, SENHOR Deus, se_errei,
+Se com as minhas mãos pequei.
+
+Se paguei paz com a maldade,
+Se eu honrei do mau vaidade:
+Venha o_hostil me_alcançar,
+Ferir minh’alma_e_atormentar.
+Venha calcar aos pés minha vida,
+Minha_honra_ao pó seja moída!  [Selá]
+Em ira ergue-te, SENHOR:
+Tem fúria meu perseguidor!
+
+Ó Deus, estejas acordado,
+Cumpre_o julgar já ordenado:
+Eis que_as nações se ajuntarão,
+Perante tua ascensão.
+Os povos o SENHOR julgará,
+Minha justiça DEUS cobrará;
+Finde dos ímpios o pecar,
+E_os justos venham se firmar!
+
+Assim nos sonda_o justo Deus,
+Prova os rins e_o coração:
+Salva quem anda_em retidão;
+É meu broquel e proteção!
+Íntegros são os juízos seus,
+Assim é Deus em seu julgar:
+Está sua ira_a inflamar,
+Todos os dias, sem cessar!
+
+Se ao caminho_o tal não voltar,
+Traz sua_espada_a afiar;
+Também seu arco já_envergou,
+E_em sua mão já o armou!
+Já preparou os instrumentos,
+Para matar, Ele_os criou:
+Nas suas flechas fogo pôs,
+Desta maneira as inflamou!
+
+Eis que o perverso em muita dor,
+Como em um parto, fez nascer:
+Sua malícia_ele pariu,
+E a mentira vem trazer.
+Assim um poço ele_abriu,
+Sua fundura fez maior;
+E em tal buraco que cavou,
+Bem dentro dele se lançou!
+
+Seu próprio mal a si retorna:
+Em sua cabeça cairá;
+Sobre_a sua mioleira,
+A violência_entornará.
+A Deus JAVÉ renderei graça,
+Conforme a sua justiça;
+E_então eu cantarei louvor:
+Ao nome_Excelso do SENHOR!
+""", true),
 const Salmo(8,
-"",
-"",
-"""
-""", false),
+"8. SENHOR, NOSSO DEUS",
+"Para o diretor, sobre o instrumento de Gate; Salmo de David.",
+"""Ó Senhor nosso DEUS, quão excelente:
+É_o nome teu na terra_a toda gente.
+E tua glória sobre a_altura,
+Bem além do céu, ela fulgura.
+
+Da boca do bebê e da criança,
+Tu contra_os maus suscitas a pujança;
+O vingador, irás emudecer, 
+E sem palavras vão permanecer.
+
+Se vejo_os céus, por teus dedos criados,
+A lua_e astros por Ti ordenados:
+O homem que_é, para lembrares?
+E o seu filho, para visitares?
+
+Pouco menor que_os anjos o tornaste: 
+De glória_e honra Tu o coroaste; 
+Tua_obra deste por seu domínio: 
+Puseste tudo sob seu senhorio.
+
+Domina bois, ovelhas e as bestas,
+As aves nos céus, e_os peixes nas águas;
+Quão nobre, nosso Deus Senhor JAVÉ,
+Em toda terra o teu nome é.
+""", true),
 const Salmo(9,
-"",
-"",
-"""
-""", false),
+"9. SENHOR, TE LOUVO",
+"Para o diretor, sobre a morte do filho; Salmo de David.",
+"""Senhor, Te louvo em meu ser:
+Tuas proezas contarei;
+Regozijando, com prazer, 
+Ao nome_excelso louvor darei.
+
+Meus adversários recuarão:
+Em tua presença cairão!
+Manténs minha causa e minha justiça,
+Entronizado_e justo_a julgar.
+
+Povos calou, ímpios matou;
+Seus nomes pra sempre_apagou!
+O inimigo aniquilas:
+De suas cidades faz ruínas.
+
+Sua memória fez cessar:
+Junto_a eles se obliterou;
+Mas para sempre vive_o SENHOR!
+Seu trono preparou pra julgar.
+
+Ao mundo Ele julgará
+Com sua_integridade.
+Sua sentença ministrará
+A todos povos co'eqüidade.
+
+E, àquele que oprimido é,
+Também guarda_o SENHOR JAVÉ:
+Em tempos de tribulação,
+É seu refúgio_e proteção.
+
+Aqueles que_o teu nome têm,
+Em ti eles confiarão.
+Não abandonas, ó JAVÉ,
+Aqueles que a Ti procuram.
+
+Com voz clamai, louvor cantai
+Ao SENHOR, que_em Sião está
+E as suas obras, declarai
+Aos povos, por toda a terra.
+
+Pois Ele faz inquisição,
+E do sangue se lembrará;
+Mas aos que choram, e o clamam
+A estes, jamais se_esquecerá.
+
+Tem piedade, ó JAVÉ,
+Meu sofrer vê quão grande é:
+Por causa deste_opositor,
+Que_a mim odeia, com rancor.
+
+Tem piedade, ó JAVÉ:
+O_inimigo_atormenta-me;
+Minha tribulação, ó vê:
+Das portas da morte me ergue.
+
+Regozijando eu cantarei,
+Seus louvores proclamarei;
+Alegre_em tua salvação:
+Nas portas da filha de Sião.
+
+Na cova feita por sua mão,
+Todo povo vai perecer
+E, bem na rede, que_esconderam,
+Seus próprios pés vão se prender.
+
+É conhecido o Deus JAVÉ,
+Pelo juízo que executou;
+Mas, capturado_o ímpio é;
+No laço que_ele mesmo armou. [Higaiom; Selá]
+
+Pois que pereça_o homem mal:
+No fogo_eterno infernal.
+E igualmente, todos povos,
+Os quais se  esquecem do Senhor Deus.
+
+Pra sempre não se_esquecerá,
+Do_homem necessitado;
+Nem a paciência do aflito,
+Perpetuamente se frustrará.
+
+Oh, vem SENHOR, ergue-te_então,
+Que_o homem não prevaleça;
+Seja julgada toda nação,
+Diante da tua presença.
+
+Põe-nos em medo_a_estremecer,
+Pra que venham a entender;
+Saibam que são, os povos todos,
+Somente por homens formados.
+""", true),
 const Salmo(10,
-"",
+"10. POR QUE ESTÁS TÃO DISTANTE, SENHOR?",
 "",
 """
-""", false),
+Por que, SENHOR, te_afastas tanto assim,
+E te conservas tão distante?
+Por que, nos tempos de_aflição sem fim,
+Tu encobertas teu semblante?
+Soberbamente o perverso vem,
+Atormentando ao necessitado,
+Em seu engano_assim é apanhado. 
+
+A alma do ímpio quer desfrutar,
+De tudo_aquilo que deseja;
+Vive  ao avarento bajular,
+Enquanto do SENHOR moteja.
+O ímpio diz que Deus não punirá,
+E mui pedantemente sempre_insiste;
+Em sua_imaginação Deus não existe.
+
+Os caminhos dele mui tortos são,
+Da retidão bem separados;
+E dos teus juízos não tem visão, 
+Dos inimigos tem zombado;
+Assim diz ele em seu coração:
+“Jamais eu poderei ser abalado,
+Por mal algum, serei eu encontrado.”
+
+Na boca dos tais há imprecação,
+Engano e sagacidade;
+Eis que_em suas línguas há maldição,
+Malícia e perversidade.
+Aos povoados emboscada faz:
+Matando em oculto_o inocente,
+E_o pobre espreitando firmemente.
+
+Tal qual leão dentro de um covil,
+O ímpio põe-se de tocaia;
+E trama cruelmente um ardil,
+Pra que_em sua rede_o pobre caia.
+É arrastado para_o lugar vil:
+Curvados prostram-se os indefesos;
+Em suas fortes garras ficam presos.
+
+Assim ele diz em seu coração:
+“Deus se_esqueceu completamente…
+Tirou de tudo_isto a sua visão,
+Cobriu seu rosto_eternamente.”
+Ergue-te, ó SENHOR, e_estende_a mão!
+Que dos humildes Tu não te esqueças,
+E que dos pobres Tu te compadeças.
+
+Por que blasfema o_ímpio contra Deus,
+Pensando “não serei cobrado”?
+Porém observas com os olhos teus:
+Contempla_o sofrimento_e_enfado;
+E_então os retribui com tuas mãos!
+Em Ti espera o necessitado:
+Por Ti será o órfão amparado.
+
+Vem braços quebrar, ó vem abater,
+Do impiedoso_e do malvado;
+E cada um deles possas moer,
+Até ninguém ser encontrado.
+Pra todo_o sempre o SENHOR é Rei:
+Serão os povos ímpios abatidos!
+E_enfim de suas terras extinguidos.
+
+SENHOR, oh, ouve pois a tal clamor,
+Do pobre e do oprimido;
+Conforto traz ao coração com dor,
+Faz bem atento teu ouvido.
+Ao órfão e_ao opresso vem julgar,
+Pra que não siga_em erro_a_humanidade,
+A praticar na terra crueldade.
+""", true),
 const Salmo(11,
 "",
 "",
@@ -153,17 +530,17 @@ const Salmo(13,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(14,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(15,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(16,
 "",
 "",
@@ -208,7 +585,7 @@ const Salmo(24,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(25,
 "",
 "",
@@ -248,7 +625,7 @@ const Salmo(32,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(33,
 "",
 "",
@@ -303,7 +680,7 @@ const Salmo(43,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(44,
 "",
 "",
@@ -323,7 +700,7 @@ const Salmo(47,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(48,
 "",
 "",
@@ -438,7 +815,7 @@ const Salmo(70,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(71,
 "",
 "",
@@ -493,12 +870,12 @@ const Salmo(81,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(82,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(83,
 "",
 "",
@@ -553,7 +930,7 @@ const Salmo(93,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(94,
 "",
 "",
@@ -578,7 +955,7 @@ const Salmo(98,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(99,
 "",
 "",
@@ -588,7 +965,7 @@ const Salmo(100,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(101,
 "",
 "",
@@ -603,7 +980,7 @@ const Salmo(103,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(104,
 "",
 "",
@@ -653,7 +1030,7 @@ const Salmo(113,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(114,
 "",
 "",
@@ -668,12 +1045,12 @@ const Salmo(116,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(117,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(118,
 "",
 "",
@@ -708,7 +1085,7 @@ const Salmo(124,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(125,
 "",
 "",
@@ -723,12 +1100,12 @@ const Salmo(127,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(128,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(129,
 "",
 "",
@@ -743,7 +1120,7 @@ const Salmo(131,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(132,
 "",
 "",
@@ -788,7 +1165,7 @@ const Salmo(140,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(141,
 "",
 "",
@@ -798,7 +1175,7 @@ const Salmo(142,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(143,
 "",
 "",
@@ -808,7 +1185,7 @@ const Salmo(144,
 "",
 "",
 """
-""", false),
+""", true),
 const Salmo(145,
 "",
 "",
