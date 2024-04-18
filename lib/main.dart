@@ -12,21 +12,6 @@ void main() {
   );
 }
 
-class MainApp extends StatelessWidget {
-  const MainApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: Text('Hello World!'),
-        ),
-      ),
-    );
-  }
-}
-
 class SalmosScreen extends StatelessWidget {
   // Requiring the list of salmos.
   const SalmosScreen({super.key, required this.salmos});
@@ -37,7 +22,7 @@ class SalmosScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Salmos'),
+        title: const Text('Saltério Genebrino'),
       ),
       //passing in the ListView.builder
       body: ListView.builder(
