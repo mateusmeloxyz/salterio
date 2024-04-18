@@ -44,7 +44,7 @@ class SalmosScreen extends StatelessWidget {
         itemCount: salmos.length,
         itemBuilder: (context, index) {
           return ListTile(
-            title: Text(salmos[index].title),
+            title: Text("Salmo ${salmos[index].number}"),
             // When a user taps the ListTile, navigate to the DeailScreen.
             // Notice that you're not only creating a DetailScreen, you're
             // also passing the current salmo through to it.
@@ -75,7 +75,7 @@ class DetailScreen extends StatelessWidget {
     // Use the Salmo to create the UI.
     return Scaffold(
       appBar: AppBar(
-        title: Text(salmo.title),
+        title: Text("Salmo ${salmo.number}"),
       ),
       body: SingleChildScrollView(
         child: Column(
