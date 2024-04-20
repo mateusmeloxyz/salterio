@@ -686,9 +686,43 @@ const Salmo(23,
 """
 """, false),
 const Salmo(24,
-"",
-"",
+"24. A TERRA E TUDO AO SEU REDOR SÃO DO SENHOR",
+"De David; um salmo.",
 """
+A terra_é posse do SENHOR,
+E tudo que_há ao seu redor:
+O mundo e seus habitantes.
+Fundou a pois, sobre_os mares,
+E_os rios tornou seus pilares:
+Desta maneira, a firmou.
+
+Ao monte de DEUS, quem subirá?
+Quem fica_em seu Santo lugar?
+Só_aquele que de mãos é puro:
+No coração, tem verdade,
+Não busca_à falsidade,
+Nem pronuncia vil perjúrio.
+
+Este_obterá grande bênção
+Do Deus da sua salvação:
+Justiça que_o SENHOR lhe_entrega.
+Eis! Geração que se_inclina,
+Em busca_à face divina:
+Tal é a geração de Jacó. [Selá]
+
+Ó portas, vossa fronte_ergueis:
+Portais sem fim, sede_erguidos!
+Para que_adentre_o Rei da Glória.
+Quem é_este glorioso Rei?
+É_o forte_e poderoso DEUS:
+SENHOR mui forte na batalha.
+
+Erguei, portas, vossas frontes,
+Portais sem fim, erguei-vos!
+Para que_adentre_o Rei da Glória.
+Glorioso Rei, quem é Ele?
+É_o SENHOR das hostes:
+De toda_a Glória ele é Rei.
 """, true),
 const Salmo(25,
 "",
@@ -726,9 +760,44 @@ const Salmo(31,
 """
 """, false),
 const Salmo(32,
-"",
-"",
+"32. FELIZ AQUELE QUE FOI PERDOADO",
+"De David, instrução.",
 """
+É mui feliz, sim, bem-aventurado,
+Quem teve_o seu pecado perdoado;
+A quem JAVÉ lhe encobriu o mal,
+Não tem mais dolo espiritual.
+Muito_eu gemi, calei os meus pecados;
+Meus ossos todos foram desgastados!
+Pois, sobre mim, pesava_a tua mão:
+O meu vigor tornou-se_em sequidão. [Selá]
+
+Deixei de ocultar a_iniqüidade,
+E confessei-te_a minha vil maldade;
+Disse: “Confessarei ao meu SENHOR”;
+Da transgressão, me foste perdoador. [Selá]
+Quem é piedoso há de suplicar-te:
+Enquanto_ainda pode encontrar-te!
+Se transbordarem águas a fluir,
+Ao tal, decerto, não hão de_atingir.
+
+És meu esconderijo, meu abrigo:
+Tu me preservas sempre que_há perigo;
+Mesmo_em angústia de tribulação,
+Dás me um canto de libertação. [Selá]
+Eis que darei a Ti o meu ensino;
+O teu caminho_assim eu ilumino!
+Por onde deves ir, instruirei:
+Sob meu olhar, te aconselharei.
+
+Tal qual_o cavalo ou_o burro_irracional,
+Eis que assim, não sejas tu igual;
+Só com cabresto_e freio pode_andar,
+Ou não irá a ti se sujeitar.
+De muitas dores, o_ímpio cercado é,
+Mas de compaixão, quem confia_em JAVÉ!
+Pois, no SENHOR, vós justos, exaltai:
+Retos de coração, vos alegrai.
 """, true),
 const Salmo(33,
 "",
@@ -781,9 +850,36 @@ const Salmo(42,
 """
 """, false),
 const Salmo(43,
-"",
-"",
+"43. VEM ME FAZER JUSTIÇA",
+"Salmo de David.",
 """
+Ó Deus, vem me fazer justiça,
+Contra_a impiedosa nação;
+Vem minha causa pleitear!
+Vem me livrar da difamação,
+E do_homem que só faz fraudar,
+Trair e enganar.
+
+Tu és Deus da minha fortaleza,
+Pois és forte a me guardar;
+Por que me vens pois a rejeitar?
+Por que caminho em tristeza?:
+Sob opressão e baixeza
+Do_inimigo_a_odiar.
+
+Com tua luz vem, me ilumina:
+A tua verdade_a me guiar!
+Ao santo monte, na colina:
+Na tua_habitação divina,
+Meu Deus, eu vou ao teu altar,
+És júbilo sem par!
+
+Ó Deus, meu Deus, te_exaltarei:
+Ao som da harpa, clamarei!
+Por que, minh'alma, te_abates?
+Por que em mim te perturbaste?
+Espera em Deus, que o louvarei:
+Ó Deus e_auxílio meu!
 """, true),
 const Salmo(44,
 "",
