@@ -517,29 +517,133 @@ Pra que não siga_em erro_a_humanidade,
 A praticar na terra crueldade.
 """, true),
 const Salmo(11,
-"",
-"",
+"11. NO SENHOR É ONDE ME VOU ME REFUGIAR",
+"Para o diretor; Salmo de David.",
 """
-""", false),
+No SENHOR, é_onde vou me refugiar!
+Por que quereis minha_alma convencer?
+"Foge qual ave_aos montes", vindes dizer.
+Seu arco está o ímpio_a encurvar;
+Sobre a corda suas setas vem pôr,
+Para em oculto pôr a perecer:
+Todos aqueles de coração limpo.
+
+Se são destruídos os seus fundamentos,
+O_homem justo, que pode pois fazer?
+Está o SENHOR no templo Santo Seu:
+O trono do SENHOR está no céu!
+Olha minuciosamente_atento;
+Aos filhos dos homens contemplará:
+Sob suas pálpebras os provará.
+
+O SENHOR testa_aquele que é reto,
+Sua_alma_odeia_o_ímpio e quem ama_o mal!
+Sobre_os perversos faz chover seus laços:
+Fogo, enxofre_e_um forte vendaval!
+Mui quente_é a porção de suas taças;
+Justo é_o SENHOR, e ama_a retidão:
+Sua presença_assim contempla_o justo.
+""", true),
 const Salmo(12,
 "",
 "",
 """
 """, false),
 const Salmo(13,
-"",
-"",
+"13. ATÉ QUANDO, JEOVÁ?",
+"Para o diretor; Salmo de David.",
 """
+Ó, até quando, JEOVÁ?
+Para sempre me_esquecerás?
+Ó, até quando_assim será?
+Por quanto mais que te esconderás?
+Teu rosto se_oculta de mim.
+
+Ó, até quando_assim_estarei?
+E_à minha_alma_aconselharei?
+Meu coração é_amargurado!.
+Por quanto mais, o_inimigo terei?
+Sobre mim ei-lo_exaltado!
+
+Atende-me, SENHOR meu Deus,
+De luz enche os olhos meus:
+Para que_eu não venha_a adormecer;
+Não venha na morte a perecer,
+Nem o_inimigo_a maldizer.
+
+Que_ele não venha_assim dizer:
+“Venci, vim a prevalecer!”
+Que não se_alegrem meus contrários:
+Meus inimigos e_adversários,
+Quando_eu vier a me_abater.
+
+Em tua misericórdia,_então,
+Nela_eu tenho confiado!
+Meu ser se_alegre_em tua Salvação!
+Seja_ao SENHOR, assim meu canto:
+Um grande bem me tem feito.
 """, true),
 const Salmo(14,
-"",
-"",
+"14. DIZ O ESTÚPIDO EM SEU CORAÇÃO",
+"Para o diretor; salmo de David.",
 """
+D iz o estúpido que "não há Deus";
+Diz no seu coração: ele se_corrompeu.
+Nas suas obras tem se feito_abjeto:
+Não há ninguém que faça_o que é reto,
+Que faça o bem.
+
+Do céu, JAVÉ, se_inclina_a observar;
+Para os filhos do_homem examinar.
+Vendo se_alguém entendimento tem;
+E que a Deus, deseje lhe buscar.
+Se há alguém.
+
+Todos perdidos, quanta corrupção!
+Não há sequer algum que faz bondade.
+Acaso_o ímpio malfeitor não sabe?
+Devora como pão o povo meu:
+Não busca_a Deus.
+
+Tomar-se-ão de grande medo_e_horror,
+Pois Deus está co’a geração dos justos.
+Vós caçoais do plano dos aflitos;
+Porém, o seu refúgio protetor
+É Deus, SENHOR.
+
+Tomara já viesse, de Sião,
+A Israel, de DEUS, a Salvação.
+E, quando for liberto_o povo seu,
+Se_exaltará Jacó, se_alegrará,
+Todo_Israel.
 """, true),
 const Salmo(15,
-"",
-"",
+"15. SENHOR, QUEM PODE HABITAR?",
+"Salmo de David.",
 """
+Quem, ó SENHOR, pode morar,
+Na tua casa, no teu monte?
+Que homem pode habitar?
+E para sempre_ali ficar:
+Contigo em teu templo santo?
+
+Aquele que, no seu andar,
+Mostra perfeita_integridade;
+O que procura te_agradar,
+E a justiça praticar:
+De coração, fala_a verdade.
+
+Não prejudica a ninguém,
+Nem com sua língua_é difamador;
+Eis que seus olhos, com desdém,
+O mau por desprezível têm,
+Mas honra_a quem teme_ao SENHOR.
+
+Quem jura sem se retirar,
+Mesmo quando_é prejudicado;
+Empresta sem agiotar,
+Suborno não quer aceitar:
+Tal homem não será_abalado!
 """, true),
 const Salmo(16,
 "",
