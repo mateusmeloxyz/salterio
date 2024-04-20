@@ -897,9 +897,29 @@ const Salmo(46,
 """
 """, false),
 const Salmo(47,
-"",
-"",
+"47. BATEI PALMAS, TODOS OS POVOS",
+"Para o diretor, dos filhos de Coré; um salmo.",
 """
+Vinde_a Deus, nações, Com jubilações;
+Batei palmas vós, Todos os povos:
+JAVÉ,_Excelso Ser, Faz todos tremer.
+A Ele temei, É o grande Rei:
+As nações baixou, E nos exaltou;
+Todos os reinos Como_estrado pôs.
+
+Deus nos escolheu, Herança nos deu:
+Glória de Jacó, A quem Ele_amou! [Selá]
+O SENHOR subiu, O templo_assumiu.
+Entre_aclamações, Mui alegres sons:
+Salmodiai a Deus, Reina sobre_os seus;
+Louvores cantai, Harmonia dai.
+
+Deus se_entronizou, Povos dominou;
+As nações chamou, Príncipes juntou:
+À grande nação Do Deus de Abraão.
+Porque são de Deus, Defensores seus:
+Reis da terra eis, Lutam pelo Rei;
+Deus se exaltou, Se glorificou.
 """, true),
 const Salmo(48,
 "",
@@ -1012,9 +1032,27 @@ const Salmo(69,
 """
 """, false),
 const Salmo(70,
-"",
-"",
+"70. DEUS, VEM SOCORRER-ME",
+"Para o diretor, de David; para lembrança.",
 """
+Ó Deus, te_apressa_em me livrar:
+SENHOR, vem logo socorrer-me!
+Sejam cobertos, de vexame,
+Os que desejam me matar!
+Recue, bem envergonhado,
+Quem se compraz do meu sofrer;
+E o que “bem feito” quer dizer,
+Já retroceda_embaraçado.
+
+
+Folguem em Ti, a jubilar,
+Todos aqueles que te buscam,
+Que tua Salvação bem amam;
+Possam pra sempre_assim falar:
+“Deus grande, sejas exaltado!”
+Porém, sou necessitado;
+Ó Deus, amparo_e redentor:
+Vem, sem demora, meu SENHOR!
 """, true),
 const Salmo(71,
 "",
@@ -1067,14 +1105,95 @@ const Salmo(80,
 """
 """, false),
 const Salmo(81,
-"",
-"",
+"81. A DEUS JUBILAI",
+"Para o diretor, sobre o instrumento de Gate; De Asafe.",
 """
+A Deus jubilai, \\ Ele_é nossa força!
+Ao Deus de Jacó, \\ A Ele louvai,
+Com exaltação, \\ Alegria nossa.
+
+Ó vós, pois tomai \\ Salmo de_adoração!
+E_assim vós também \\ Tamborim trazei;
+E_a bela harpa, \\ Com saltério então;
+
+Ó pois, assoprai \\ As vossas cornetas;
+Assim celebrai: \\ Na lua nova,
+E quando_é cheia, \\ Mui solenes dias!
+
+Pois que ordenou \\ Para Israel:
+O Deus de Jacó \\ Estatuto deu,
+É a sua lei, \\ Que os prescreveu;
+
+E para José, \\ Testemunho é,
+Quando_ia no_Egito_escutando eu
+Uma língua que não se entendeu.
+
+E os ombros teus, \\ Que levavam fardos,
+Eu os libertei! \\ E, das tuas mãos,
+Os pesados cestos foram tirados!
+
+Na tribulação, \\ Clamaste_e te livrei!
+Do_oculto lugar, \\ No trovão falei,
+Junto_a Meribá, \\ Eu a ti provei. [Selá]
+
+Ouve, povo Meu, \\ Ah, se me ouvisses...
+Não haja entre ti \\ Deus além de Mim;
+Te_exorto, Israel: \\ A_ele não te prostres.
+
+Sou_o SENHOR teu Deus: \\ Te livrei do_Egito;
+Quero, de bens meus, \\ Tua boca_encher;
+Mas não queres crer, \\ Nem me dar ouvido.
+
+Na obstinação \\ Do seu coração,
+Deixei-o andar, \\ E continuar,
+Nos conselhos seus, \\ Que não são os meus.
+
+Ah, se_o povo meu \\ A Mim escutasse;
+Oh, se Israel, \\ Se_assim fizesse:
+Nos caminhos meus, \\ Ah se tu andasses!
+
+Em breve então, \\ Pois que Eu faria:
+A seus inimigos, renderia;
+Tornaria_a mão, \\ Contra_o opressor.
+
+E_o bajulador, \\ Que_ao SENHOR odeia,
+Daria_em tuas mãos, \\ Te submeteria:
+Tal destino, pois, \\ Pra sempre seria.
+
+Do trigo a flor, \\ Te entregaria,
+E da rocha_o mel: \\ Te sustentaria,
+Eternamente, \\ Eu te fartaria.
 """, true),
 const Salmo(82,
-"",
-"",
+"82. DEUS NA CONGREGAÇÃO DIVINA",
+"Salmo de Asafe.",
 """
+Ante_a congregação divina,
+Em meio_aos deuses, Deus domina;
+Seu julgamento_assim fixou,
+Bem colocado_Ele_o firmou:
+“Quando_é o fim deste momento?
+Ímpio é vosso julgamento,
+Pois favorece_o lado mau:
+Um julgamento ilegal.” [Selá]
+
+“Fazei justiça_ao mais carente;
+Ao órfão, faze-a retamente;
+O pobre_e fraco resgatai,
+Da mão dos ímpios os tirai.”
+Eles não sabem nem entendem,
+Andam nas trevas, não aprendem;
+Eis que estão a vacilar
+Tudo que_à terra é pilar.
+
+“Vós deuses sois, tenho vos dito:
+Filhos do_Excelso Deus Bendito;
+Porém, qual homens, morrereis;
+Qual príncipes, sucumbireis.”
+Ó Deus, levanta-te agora:
+Julga_esta terra, leva_embora;
+Pois só compete à tua mão:
+Tu herdarás toda nação.
 """, true),
 const Salmo(83,
 "",
@@ -1127,9 +1246,23 @@ const Salmo(92,
 """
 """, false),
 const Salmo(93,
-"",
+"93. O SENHOR É REI",
 "",
 """
+Reina_o SENHOR, de glória se vestiu!
+JAVÉ com mui poder se revestiu;
+Fixou o mundo, não vacilará:
+Seu trono_eterno permanecerá!
+
+Águas levantam-se_a bramir, SENHOR:
+Rios levantam-se, no seu fragor;
+Mas, nas alturas, JAVÉ não tem par;
+Tem mais poder que_os vagalhões do mar!
+
+Tem mais poder que_o mar a se_agitar:
+Sempre_é fiel o seu testemunhar;
+Pureza à tua casa lha convém;
+Ó meu SENHOR, pra sempre, muito_além!
 """, true),
 const Salmo(94,
 "",
@@ -1152,9 +1285,44 @@ const Salmo(97,
 """
 """, false),
 const Salmo(98,
-"",
-"",
+"98. CANTAI UM CANTO NOVO",
+"Um salmo.",
 """
+Cantai a DEUS um novo canto,
+Pois maravilhas realizou.
+Com sua destra_e braço santo,
+Libertação, Ele_alcançou.
+Fez o SENHOR ser conhecida
+A sua eterna salvação:
+Sua justiça exibida,
+À vista de toda nação.
+
+Lembrou de sua mercê fiel,
+A toda casa de_Israel;
+Eis que_os confins da terra viram:
+De nosso Deus, a salvação.
+Oh, jubilai vós ao SENHOR:
+Com regozijo e clamor!
+Por toda terra, exclamai:
+Alegremente o louvai!
+
+Salmodiai pois ao SENHOR:
+Com vossas liras, vós tocai!
+E, junto à lira_o som do louvor:
+Assim, um salmo entoai.
+Convocação solene é:
+Em clarinadas, a soar,
+Junto ao chamado do shofar:
+Diante do grande rei JAVÉ.
+
+Em plenitude, brame o mar,
+O mundo_e_os habitantes seus;
+E os rios, em palmas a bater,
+Junto aos montes, com prazer:
+Todos, diante do SENHOR,
+Pois, eis que à terra julgará!
+Com retidão e mui rigor,
+A eqüidade_aos povos dá.
 """, true),
 const Salmo(99,
 "",
@@ -1162,9 +1330,28 @@ const Salmo(99,
 """
 """, false),
 const Salmo(100,
-"",
-"",
+"100. JUBILAI AO SENHOR",
+"Salmo confessional.",
 """
+Oh, jubilai, vós, ao SENHOR:
+Todas as terras, com louvor!
+Alegres, ao SENHOR honrai:
+Um canto_a Ele_apresentai!
+
+Sabei que o SENHOR é Deus:
+Ele é nosso Criador!
+Eis que nós somos povo seu;
+Rebanho do qual é pastor!
+
+Pois, quando entrares, graças dai:
+E_adentro, hinos entoai!
+Oh, vinde graças lhe render;
+E_assim seu nome bendizer!
+
+Pois que mui bom é o SENHOR:
+Pra sempre dura_o seu amor!
+De geração em geração,
+É sua vera_exatidão!
 """, true),
 const Salmo(101,
 "",
@@ -1177,9 +1364,64 @@ const Salmo(102,
 """
 """, false),
 const Salmo(103,
-"",
-"",
+"103. BENDIZ AO SENHOR, MINH’ALMA",
+"De David.",
 """
+Vem ó minh'alma, ao SENHOR proclama;
+Todo_o meu ser lhe_exalte a santa fama:
+Vem bendizer, minh'alma, ao teu SENHOR!
+Ó, não te esqueças de seus benefícios:
+Cura_a doença_e sara teus suplícios;
+O teu pecado Ele perdoou!
+
+Deus resgatou-te_a vida quase_à cova;
+De compaixão e graça, te renova:
+Se velho_estás, te fez fartar de bens!
+Força das águias, deu-te_em mocidade;
+Não deixa_ao pobre faltar eqüidade:
+Aos oprimidos, o SENHOR sustém!
+
+Eis que_a Moisés mostrou os seus caminhos;
+Seus grandes feitos, a_Israel e filhos:
+Clemente_e compassivo é_o SENHOR!
+Assaz benigno_e muito paciente;
+Não repreende perpetuamente,
+Nem para sempre guarda seu furor!
+
+Deus não nos trata como merecemos;
+Não retribui o mal que cometemos:
+Pois, quanto_a terra_é longe lá dos céus,
+É grande_assim o_amor de Deus, clemente,
+A todo_aquele que lhe é temente:
+Tem compaixão de todos que são seus!
+
+Nosso pecado, Deus de nós afasta;
+Qual oriente do_ocidente dista:
+DEUS tem mercê de quem lhe tem temor!
+Qual pai aos filhos, em fiel ternura,
+Conhece_a nossa frágil estrutura:
+E se recorda que nós somos pó!
+
+Quanto_ao humano, vive como_a relva;
+Floresce como_a flor em meio_à selva:
+Com vento some, fica sem lugar!
+DEUS tem mercê eterna ao temente,
+Justiça às gerações do reverente,
+A quem seu pacto_e sua lei guardar!
+
+No céu, o trono do SENHOR, firmado,
+Domina sobre tudo_em seu reinado:
+Vós anjos, rendei glórias ao SENHOR!
+Cumpri suas ordens, com fiel potência;
+À sua voz, rendei obediência:
+Vós anjos, valorosos em vigor!
+
+Louva_ao SENHOR, milícia divina,
+Ministros, que fazeis qual determina;
+A DEUS louvai, toda sua criação!
+Em todo lugar sob sua jurisdição;
+Cumpre também, minha_alma_a tal chamado:
+Seja_o SENHOR por ti louvado!
 """, true),
 const Salmo(104,
 "",
@@ -1227,9 +1469,36 @@ const Salmo(112,
 """
 """, false),
 const Salmo(113,
-"",
+"113. LOUVAI, VÓS, SERVOS DO SENHOR!",
 "",
 """
+Aleluia, Louvai a Deus!
+Louvai, vós, servos do Senhor
+Ao nome do Senhor, oh louvai.
+Sempre bendito_é_o nome Seu
+Desde_o nascente_ao pôr do sol
+Louvado seja o Seu nome!
+
+Excelso_é Deus, sobre_as nações
+E_a Sua glória, sobre_os céus.
+Quem ao Senhor se assemelha?
+Quem se iguala_ao nosso Deus?
+Seu trono_está nos altos céus
+Céu e a terra Javé olha!
+
+Javé se_inclina para ver
+Aquilo que_há na terra_e céu.
+Do pó Deus ergue_o que_é carente,
+E do monturo_o fraco traz,
+Pra que se_assente com os reis
+Que reinam sobre o Seu povo.
+
+E a mulher que_estéril é,
+Que não consegue filhos ter,
+Javé Senhor também ajuda:
+Dando-lhe vida familiar,
+E mãe de filhos passa_a ser!
+Louvai a Deus! Oh, Aleluia!
 """, true),
 const Salmo(114,
 "",
@@ -1242,14 +1511,69 @@ const Salmo(115,
 """
 """, false),
 const Salmo(116,
-"",
+"116. AMO AO AO SENHOR",
 "",
 """
+Amo_ao SENHOR, pois ouve_a minha voz:
+Às minhas súplicas, vem atender!
+Pois inclinou a mim os seus ouvidos:
+A Ele_invocarei no meu viver.
+
+Laços de morte vieram me cercar:
+De infernal angústia fui tomado!
+Entristecido, mui atribulado,
+Ao nome do SENHOR, fui invocar.
+
+“Vem, ó meu DEUS, minh'alma resgatar”;
+Justo_é_o SENHOR, e pelo simples vela!
+Em compaixão, salvou-me da mazela:
+Nosso SENHOR é rico_em perdoar.
+
+Ó minha alma, vem, pois, retornar;
+Volta tranquila, possas descansar!
+Eis que_o SENHOR contigo_é mui amável;
+Da morte_a minha vida protegeu.
+
+Poupaste_os olhos meus do meu chorar,
+E os meus pés, do tropeçar proteges!
+Diante do SENHOR vou caminhar,
+Aqui na terra dos viventes.
+
+Eu tive fé, quando assim declarei;
+Estive sobremodo me_afligindo!
+Turbado_eu disse: “Todos vão mentindo!”
+Mesmo_ao sentir-me_aflito acreditei.
+
+Ao meu SENHOR, que devo lhe prestar,
+Por todos benefícios que recebo?
+Da Salvação, o cálice_eu carrego:
+Ao nome do SENHOR vou invocar.
+
+Eu cumprirei meus votos ao SENHOR,
+Em meio ao povo seu, os seus eleitos!
+Mui importante_é_a morte de seus santos,
+Ao_olhar de DEUS, tem um grande valor.
+
+Agora, pois, SENHOR, te servirei;
+Nasci da tua serva, fui liberto!
+Com gratidão, meu sacrifício_oferto:
+Ao nome do SENHOR invocarei.
+
+Eu cumprirei meus votos ao SENHOR,
+Em meio ao povo seu, os seus eleitos!
+Na casa do SENHOR e em seus átrios,
+Em ti, Jerusalém, dai-Lhe louvor!
 """, true),
 const Salmo(117,
-"",
+"117. LOUVAI AO SENHOR, VÓS TODOS",
 "",
 """
+Aleluia, Vinde ao SENHOR!
+Gentios todos, dai louvor.
+Vós povos, vinde-O adorar!
+Pois tem mercê de nós, sem par;
+Grande_é_a fieldade de JAVÉ:
+Aleluia, pra sempre é!
 """, true),
 const Salmo(118,
 "",
@@ -1282,9 +1606,26 @@ const Salmo(123,
 """
 """, false),
 const Salmo(124,
-"",
-"",
+"124. NÃO FOSSE O SENHOR",
+"Cântico dos degraus.",
 """
+Não fosse_ao nosso lado_o nosso DEUS,
+"Não fosse_o meu SENHOR", diga_Israel:
+Quando_homens ergueram-se contra nós,
+Nos tragariam, de forma cruel!
+Pois sua ira se_acendeu feroz.
+
+Águas viriam pois nos afogar,
+Nossa_alma submergir e_asfixiar;
+Teriam a nós vencido com furor!
+Bendito seja_então o meu SENHOR!
+Não nos deu aos seus dentes mastigar.
+
+Da rede,_a nossa alma libertou,
+Qual ave livre do seu caçador;
+O laço da_armadilha se rompeu!
+Nosso socorro_é_o nome do SENHOR:
+JAVÉ, o criador da terra_e céu.
 """, true),
 const Salmo(125,
 "",
@@ -1297,14 +1638,53 @@ const Salmo(126,
 """
 """, false),
 const Salmo(127,
-"",
-"",
+"127. SE O SENHOR NÃO EDIFICAR",
+"Cântico dos degraus, de Salomão.",
 """
+Se quem a casa_edificar,
+Se_o construtor não for JAVÉ,
+Em vão trabalha quem fizer;
+Oh! Se_o SENHOR não vigiar,
+Dando_à cidade proteção,
+A sentinela guarda_em vão!
+
+É bem inútil madrugar,
+E muito tarde_adormecer;
+Ou, com penoso labutar,
+O vosso pão assim obter;
+Mas, aos que são amados seus,
+Durante_o sono, lhes dá Deus!
+
+Filhos: a herança do SENHOR,
+Fruto do ventre_e galardão.
+Qual flechas de guerreiro_à mão,
+Feliz quem deles se_abundou:
+A porta não se_inibirá,
+Quando_o_inimigo pleitear!
 """, true),
 const Salmo(128,
-"",
-"",
+"128. BEM AVENTURADOS TODOS QUE TEMEM",
+"Cântico dos degraus.",
 """
+É bem-aventurado Quem teme_ao DEUS JAVÉ,
+E segue, caminhando, Por onde_Ele quiser.
+Do labor de tua mão, Te alimentarás!
+Feliz serás então, Bem te sucederás.
+
+Na tua casa_adentro, Tua_esposa lhe será:
+Qual vide florescendo, Assim conceberás.
+Qual plantas de_oliveira, Teus filhos vão brotar!
+E_então, desta maneira, Tua mesa vão cercar.
+
+Pois que terá com ele A bênção do SENHOR,
+Todo_o varão que_O teme Com mui grande tremor.
+JAVÉ te dê tal bênção, Com grandioso favor:
+Desde_o monte Sião, Até por onde for.
+
+E de Jerusalém, Teus olhos possam ver:
+Contemples os seus bens, Todos dias que viver.
+Filhos dos filhos teus, Possas tu observar!
+E, sobre Israel, Paz possa prosperar.
 """, true),
 const Salmo(129,
 "",
@@ -1317,9 +1697,23 @@ const Salmo(130,
 """
 """, false),
 const Salmo(131,
-"",
-"",
+"131. SENHOR, NÃO SE ORGULHA O MEU CORAÇÃO",
+"Cântico dos degraus, de David.",
 """
+Não se_orgulha_o meu coração,
+Nem os meus olhos, ó SENHOR!
+Das maravilhas de_esplendor,
+E da grandeza, abro mão!
+
+De tal modo_eu não me portei,
+Pelo contrário, me_aquietei!
+Qual criança que desmamou,
+Que com sua mãe se consolou!
+
+Qual bebê desmamado estou,
+Com minha alma_assim eu sou!
+Em JAVÉ_espera_então, fiel,
+Agora_e sempre,_ó Israel!
 """, true),
 const Salmo(132,
 "",
@@ -1362,9 +1756,58 @@ const Salmo(139,
 """
 """, false),
 const Salmo(140,
-"",
-"",
+"140. SALVA, SENHOR",
+"Para o diretor, Salmo de David.",
 """
+Salva, SENHOR, vem me guarnecer,
+Guarda-me do cruel varão:
+Só pensa_o mau no coração,
+E guerra sempre quer fazer.
+
+Como_a serpente eles fazem:
+Aguçam suas línguas más;
+São como cobras peçonhentas:
+Veneno em seus lábios têm. [Selá]
+
+Do ímpio me guarda, ó SENHOR,
+De suas mãos vem me salvar;
+Livra-me do_homem traidor,
+Que busca me sobrepujar.
+
+Eis que_o soberbo_armou cilada,
+Preparou rede para mim,
+Pôs uma corda esticada:
+Sua_isca ocultou assim. [Selá]
+
+Digo_ao SENHOR: “meu Deus, me_ajuda,
+JAVÉ, me_escuta_a oração”;
+Na guerra_a minha fronte cuida,
+DEUS, Senhor forte_e Salvação.
+
+Ao mau não favoreça, JAVÉ:
+O seu conselho ímpio é;
+Seu pensamento, queiras frustrar:
+Que_ele não venha_a se_exaltar. [Selá]
+
+A fronte dos que me rodeiam
+Se cubra no seu maldizer;
+Queimem num poço, brasas caiam:
+Possam jamais se reerguer.
+
+O fofoqueiro, mentiroso,
+Na terra não vai se firmar:
+Ao violento_injurioso,
+O mal persegue,_a golpear.
+
+Sei que_o SENHOR dará sustento
+À causa do que_opresso for:
+Dará justiça,_e livramento,
+Ao pobre_aflito sofredor.
+
+Os homens justos, sim, decerto,
+Vão graças ao teu nome dar;
+Os que_andam em caminho reto
+Em tua presença vão morar.
 """, true),
 const Salmo(141,
 "",
@@ -1372,9 +1815,43 @@ const Salmo(141,
 """
 """, false),
 const Salmo(142,
-"",
-"",
+"142. COM MINHA VOZ, CLAMEI AO SENHOR",
+"Instrução de David, quando ele estava na caverna.",
 """
+Com minha voz, assim orei:
+Ergui a DEUS o meu clamor!
+Em voz alta, lhe implorei,
+Fiz minha súplica_ao SENHOR!
+
+Meus queixumes eu derramei,
+Diante de Sua presença:
+Diante dEle, eu declarei,
+Tudo_o que me_atormenta!
+
+Quando_o fraco_espírito meu,
+Dentro de mim, desfaleceu:
+Conheceste meu caminhar:
+Onde quiseram me_emboscar!
+
+Olha_à minha direita_e vê:
+Ninguém me quer reconhecer!
+Meu refúgio encontrou o fim:
+Ninguém se_interessou por mim!
+
+Clamo e digo_a Ti, ó SENHOR:
+"És meu abrigo_e protetor!
+Meu tesouro e_o meu quinhão,
+Na terra dos que vivos são!"
+
+Vem, atende ao meu clamor:
+Eis que bem fraco_agora_estou!
+Do_opressor venha me livrar:
+Pois força tem pra me_atacar!
+
+Livra minha_alma da prisão,
+Teu nome_então eu louvarei!
+Homens justos me rodearão:
+Eis que a mim fizeste bem!
 """, true),
 const Salmo(143,
 "",
@@ -1382,9 +1859,53 @@ const Salmo(143,
 """
 """, false),
 const Salmo(144,
-"",
-"",
+"144. SÊ EXALTADO, SENHOR",
+"De David.",
 """
+Rocha minha, ó SENHOR, sê exaltado;
+Pois para a guerra, tens me preparado.
+As minhas mãos, te praza em adestrar;
+Treina os meus dedos para pelejar!
+Minha mercê, ó minha Fortaleza;
+Alto Refúgio, Escudo de defesa.
+Libertador, em quem confiarei:
+Meu povo pois, por Ti, conquistarei.
+
+Que é o homem, SENHOR, para sabê-lo?
+E o filho d'homem, para estimá-lo?
+O ser humano é qual breve soprar:
+Seus dias são qual sombra a passear!
+Os céus pra baixo traz, SENHOR, e desce:
+Toca estes montes, e a fumaça cresce.
+Luze o teu raio e afasta o opressor,
+Com tuas flechas, sê meu vingador!
+
+Dos céus, tuas mãos libertam-me das águas;
+Dos filhos de estranhos vem me salvar.
+Pois de suas bocas saem vaidades más;
+Sua mão direita é destra em enganar.
+A ti, ó Deus, entoo um canto novo;
+Com um saltério de dez cordas louvo!
+Pois a vitória aos reis é Deus quem dá;
+Livra Davi da espada vil e má.
+
+Resgata-me das mãos de homens tais,
+Dos filhos de estranhos vem salvar.
+Pois de suas bocas saem vaidades más;
+Sua mão direita é destra em enganar.
+Dê a nossos filhos, força em mocidade:
+Sejam qual planta em viço com beldade.
+E as filhas sejam, qual pedra angular:
+Mui bem lavradas, tão nobre pilar!
+
+Se transbordem, assim, nossos celeiros:
+De toda provisão, fiquem bem cheios.
+Nossos rebanhos, vem multiplicar:
+Milhares e milhares a pastar!
+Prósperas e saudáveis sejam as vacas;
+Não haja grito ou luto em nossas praças.
+Oh! Muito bem-aventurada é:
+Toda nação que tem por Deus JAVÉ.
 """, true),
 const Salmo(145,
 "",
