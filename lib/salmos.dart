@@ -1862,48 +1862,48 @@ const Salmo(144,
 "144. SÊ EXALTADO, SENHOR",
 "De David.",
 """
-Rocha minha, ó SENHOR, sê exaltado;
-Pois para a guerra, tens me preparado.
-As minhas mãos, te praza em adestrar;
-Treina os meus dedos para pelejar!
+Rocha minha,_ó SENHOR, sê exaltado;
+Pois para_a guerra, tens me preparado.
+As minhas mãos, te praza_em adestrar;
+Treina_os meus dedos para pelejar!
 Minha mercê, ó minha Fortaleza;
-Alto Refúgio, Escudo de defesa.
+Alto Refúgio,_Escudo de defesa.
 Libertador, em quem confiarei:
 Meu povo pois, por Ti, conquistarei.
 
-Que é o homem, SENHOR, para sabê-lo?
-E o filho d'homem, para estimá-lo?
-O ser humano é qual breve soprar:
-Seus dias são qual sombra a passear!
+Que é_o homem, SENHOR, para sabê-lo?
+E_o filho d'homem, para estimá-lo?
+O ser humano_é qual breve soprar:
+Seus dias são qual sombra_a passear!
 Os céus pra baixo traz, SENHOR, e desce:
-Toca estes montes, e a fumaça cresce.
-Luze o teu raio e afasta o opressor,
+Toca_estes montes, e_a fumaça cresce.
+Luze_o teu raio_e_afasta_o opressor,
 Com tuas flechas, sê meu vingador!
 
 Dos céus, tuas mãos libertam-me das águas;
 Dos filhos de estranhos vem me salvar.
 Pois de suas bocas saem vaidades más;
-Sua mão direita é destra em enganar.
-A ti, ó Deus, entoo um canto novo;
+Sua mão direita_é destra em enganar.
+A ti, ó Deus, entoo_um canto novo;
 Com um saltério de dez cordas louvo!
-Pois a vitória aos reis é Deus quem dá;
-Livra Davi da espada vil e má.
+Pois a vitória_aos reis é Deus quem dá;
+Livra Davi da_espada vil e má.
 
 Resgata-me das mãos de homens tais,
-Dos filhos de estranhos vem salvar.
+Dos filhos de_estranhos vem salvar.
 Pois de suas bocas saem vaidades más;
-Sua mão direita é destra em enganar.
-Dê a nossos filhos, força em mocidade:
-Sejam qual planta em viço com beldade.
-E as filhas sejam, qual pedra angular:
+Sua mão direita_é destra em enganar.
+Dê_a nossos filhos, força_em mocidade:
+Sejam qual planta_em viço com beldade.
+E_as filhas sejam, qual pedra_angular:
 Mui bem lavradas, tão nobre pilar!
 
 Se transbordem, assim, nossos celeiros:
 De toda provisão, fiquem bem cheios.
 Nossos rebanhos, vem multiplicar:
 Milhares e milhares a pastar!
-Prósperas e saudáveis sejam as vacas;
-Não haja grito ou luto em nossas praças.
+Prósperas e saudáveis sejam_as vacas;
+Não haja grito_ou luto_em nossas praças.
 Oh! Muito bem-aventurada é:
 Toda nação que tem por Deus JAVÉ.
 """, true),
