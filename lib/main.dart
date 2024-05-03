@@ -5,6 +5,15 @@ void main() {
   runApp(
     MaterialApp(
       title: 'Passing Data',
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.brown,
+          brightness: Brightness.light,
+        ),
+
+        textTheme: const TextTheme(),
+      ),
+      darkTheme: ThemeData.dark(),
       home: SalmosScreen(
         salmos: salmos
       )
@@ -23,8 +32,6 @@ class SalmosScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Saltério Genebrino'),
-        backgroundColor: Colors.teal,
-        foregroundColor: Colors.white,
       ),
       //passing in the ListView.builder
       body: OrientationBuilder(
@@ -47,17 +54,15 @@ class SalmosScreen extends StatelessWidget {
                 margin: const EdgeInsets.fromLTRB(4.0, 8.0, 4.0, 8.0),
                 padding: const EdgeInsets.all(16.0),
                 decoration: salmos[index].enabled ? BoxDecoration(
-                  color: Colors.teal,
+                  color: Theme.of(context).colorScheme.primary,
                   borderRadius: BorderRadius.circular(10),
                 ) : 
                 BoxDecoration(
-                  color: Colors.teal[100],
+                  color: Theme.of(context).colorScheme.secondaryContainer,
                   borderRadius: BorderRadius.circular(10)
                 ),
                 child: Center(
-                  child: Text("${salmos[index].number}", style: Theme.of(context,).textTheme.bodyLarge?.copyWith(
-                      color: Colors.white),
-                  ),
+                  child: Text("${salmos[index].number}"),
                 ),
               ),
             );
@@ -82,8 +87,6 @@ class DetailScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Salmo ${salmo.number}"),
-        backgroundColor: Colors.teal,
-        foregroundColor: Colors.white,
       ),
       body: SizedBox.expand(
         child: SingleChildScrollView(
